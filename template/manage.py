@@ -5,6 +5,7 @@ import sys
 
 
 PROJECT_NAME = 'template'  # Define your project name here
+APP_NAME = 'app'
 
 
 def main():
